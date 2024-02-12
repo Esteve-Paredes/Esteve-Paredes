@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Esteve Paredes 😄👋</h1>
 <h3 align="center">Soy Full Stack Web Developer de Peru 🇵🇪</h3>
 
-- 🌱 Actualmente me encuentro aprendiendo **Programacion Orientada a Objetos**
+- 🌱 Actualmente me encuentro desarrollando **Proyectos personales Full Stack**
 - 💬 Preguntame sobre **React o Javascript / Typescript**
 - 📫 Me puedes contactar al correo **esteve.paredes.4@gmail.com**
 

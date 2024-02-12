@@ -1,4 +1,4 @@
-Hola soy Esteve Paredes 😄👋
+<h1>Hola soy Esteve Paredes 😄👋</h1>
 
 <!--
 **Esteve-Paredes/Esteve-Paredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

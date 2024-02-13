@@ -1,13 +1,13 @@
 <h1 align="center">Hola soy Esteve Paredes 😄👋</h1>
 <h3 align="center">Soy Full Stack Web Developer de Peru 🇵🇪</h3>
 
-- 🌱 Actualmente me encuentro desarrollando **Proyectos personales Full Stack**
+- 🌱 Actualmente me encuentro desarrollando **Proyectos personales Full Stack con React, Node y Postgres**
 - 💬 Preguntame sobre **React o Javascript / Typescript**
 - 📫 Me puedes contactar al correo **esteve.paredes.4@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/esteve-paredes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteve-paredes" height="30" width="40" /></a> </p>
+<a href="https://linkedin.com/in/esteve-paredes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteve-paredes" height="30" width="40" /></a> </p>
 
 <h3 align="left">Lenguajes y Frameworks</h3>
 
@@ -21,4 +21,5 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
